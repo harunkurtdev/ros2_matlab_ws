@@ -10,3 +10,9 @@
 [submodule "msgs_matlab/autoware_msgs"]
 	path = msgs_matlab/autoware_msgs
 	url = https://github.com/autowarefoundation/autoware_msgs.git
+[submodule "src/automotive_autonomy_msgs"]
+	path = src/automotive_autonomy_msgs
+	url = https://github.com/astuff/automotive_autonomy_msgs.git
+[submodule "msgs_matlab/automotive_autonomy_msgs"]
+	path = msgs_matlab/automotive_autonomy_msgs
+	url = https://github.com/astuff/automotive_autonomy_msgs.git
