@@ -13,11 +13,15 @@ git clone --recurse-submodules https://github.com/harunkurtdev/ros2_matlab_ws.gi
 ---
 run for the current project directory ros2_matlab_ws
 
+## So important
+all msg and srv pkg inside msgs_matlab file,
+
+matlab generate a folder like this `matlab_msg_gen` and so big file.
+
+your all ros2 pkg must be inside `src/ros_pkg`.
+
 ---
 ```go
 matlab ros2_matlab_ws
-```
-```output
-/var/folders/mr/gysxj2bd05s9bsg9dq0tw0180000gn/T/main.go:6:8: syntax error: unexpected name ros2_matlab_ws at end of statement
 ```
 ---
