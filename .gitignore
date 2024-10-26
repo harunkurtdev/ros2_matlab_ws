@@ -3,6 +3,8 @@ msgs_matlab/matlab_msg_gen/*
 slprj/*
 *_ert_rtw/*
 
+simulink/*.slx.autosave
+
 build_ros2_model.sh
 
 *.tgz

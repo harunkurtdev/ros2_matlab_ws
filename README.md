@@ -5,8 +5,12 @@
 
 ### WHAT SUPPORT MSGS/SRV
 
-autoware_msgs
-px4_msgs
+```
+* autoware_msgs/*
+* px4_msgs
+* yolov8_msgs
+* automotive_autonomy_msgs/*
+```
 
 Download this repository with the submodules
 
