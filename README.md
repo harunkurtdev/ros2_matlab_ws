@@ -18,8 +18,9 @@ run for the current project directory ros2_matlab_ws
 
 ---
 ```go
-```bash
 matlab ros2_matlab_ws
 ```
+```output
+/var/folders/mr/gysxj2bd05s9bsg9dq0tw0180000gn/T/main.go:6:8: syntax error: unexpected name ros2_matlab_ws at end of statement
 ```
 ---
