@@ -16,6 +16,16 @@ It is important to download it to a directory like `C:/robotics/`. As the folder
 git clone --recurse-submodules https://github.com/harunkurtdev/ros2_matlab_ws.git
 ```
 ---
+
+---
+```go
+```bash
+cp -r msgs_matlab/autoware_msgs/* msgs_matlab/
+cp -r msgs_matlab/automative_autonomy/* msgs_matlab/
+```
+```
+---
+
 run for the current project directory ros2_matlab_ws
 
 ## So important
