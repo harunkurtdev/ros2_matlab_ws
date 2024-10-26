@@ -16,3 +16,6 @@
 [submodule "msgs_matlab/automotive_autonomy_msgs"]
 	path = msgs_matlab/automotive_autonomy_msgs
 	url = https://github.com/astuff/automotive_autonomy_msgs.git
+[submodule "src/yolov8_ros"]
+	path = src/yolov8_ros
+	url = https://github.com/swarm-ai-robotics/yolov8_ros.git
