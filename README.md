@@ -1,14 +1,25 @@
 
-# SAIR MATLAB WS
+# ROS2 MATLAB WS
 
-Proje detayını indirmek için, aşağıda ki kodu kopyalayın.
+Download this repository with the submodules
 
 ---
-```go
-git clone --recurse-submodules https://github.com/swarm-ai-robotics/sair_matlab_ws.git
+```markdown
+It is important to download it to a directory like `C:/robotics/`. As the folder path gets longer, it may cause issues with the project.
 ```
 ---
 
-daha sonrasında, bu klasörde matlab çalıştırınız.
+---
+```go
+git clone --recurse-submodules https://github.com/harunkurtdev/ros2_matlab_ws.git
+```
+---
+run for the current project directory ros2_matlab_ws
 
-matlab .
+---
+```go
+```bash
+matlab ros2_matlab_ws
+```
+```
+---
